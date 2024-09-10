@@ -1,16 +1,19 @@
 # Estudos - Marcelo
 
-## 📚 Sobre
+Este repositório contém meus estudos e projetos relacionados ao curso da Descomplica.
 
-Bem-vindo ao meu repositório de estudos! Aqui você encontrará uma coleção de materiais, projetos e anotações relacionados aos meus estudos em diversas áreas.
+## Conteúdo
 
-## 🎯 Tópicos Abordados
+- HTML básico (veja Index.html)
+- JavaScript introdutório (veja index.js, codeScript.js, e cmdScript.js)
+- Uso de prompt e alert
+- Cálculos simples com JavaScript
+- Uso de módulos Node.js (readline-sync)
 
-- Programação
-- Ciência de Dados
-- Inteligência Artificial
-- Desenvolvimento Web
-- (outros tópicos relevantes)
+## Como executar
+
+Para executar os scripts JavaScript, você precisará do Node.js instalado. 
+Para o script que usa `readline-sync`, primeiro instale as dependências com `npm install`.
 
 ## 📁 Estrutura do Repositório
 
